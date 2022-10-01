@@ -23,7 +23,7 @@
       <a href="#" class="brand-logo"><b>CURRICULUM VITAE</b></a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
         <li><a href="#yo">SOBRE MI</a></li>
-        <li><a href="#estudio">ESTUDIOS</a></li>
+        <li><a href="#estudios">ESTUDIOS</a></li>
         <li><a href="#portafolio">PORTAFOLIO</a></li>
         <li><a href="#intereses">INTERESES</a></li>
         <li><a href="#contacto">CONTACTO</a></li>
