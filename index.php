@@ -22,11 +22,11 @@
     <div class="nav-wrapper">
       <a href="#" class="brand-logo"><b>CURRICULUM VITAE</b></a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
-        <li><a href="sass.html">SOBRE MI</a></li>
-        <li><a href="badges.html">ESTUDIOS</a></li>
-        <li><a href="collapsible.html">PORTAFOLIO</a></li>
-        <li><a href="badges.html">INTERESES</a></li>
-        <li><a href="collapsible.html">CONTACTO</a></li>
+        <li><a href="#yo">SOBRE MI</a></li>
+        <li><a href="#estudio">ESTUDIOS</a></li>
+        <li><a href="#portafolio">PORTAFOLIO</a></li>
+        <li><a href="#intereses">INTERESES</a></li>
+        <li><a href="#contacto">CONTACTO</a></li>
       </ul>
     </div>
   </nav>
